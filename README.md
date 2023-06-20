@@ -24,6 +24,7 @@ Lets take a look inside the `src` folder
 
  - Download this template from github and open it in your favourite text editor. 
  - In the root directory create a `.env` file and add the following env variables
+
  npm install
  ```
  - In the root directory create a `.env` file and add the following env variables
@@ -40,6 +41,7 @@ Lets take a look inside the `src` folder
     npm sequelize init
  ```
  -By executing the above commond you will get migrations and seeders folder along with a config.json inside the config folder.
+
  {
   "development": {
     "username": "root",
